@@ -24,8 +24,7 @@ var taskConfig = {
       'classnames',
       'eve',
       'react',
-      'react-dom',
-      'snapsvg-cjs'
+      'react-dom'
     ],
     lib: 'lib',
     file: 'BurgerMenu.js',
